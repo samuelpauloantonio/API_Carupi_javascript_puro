@@ -104,12 +104,12 @@ http://localhost:veiculos
 
 Antecedido pelo metodo HTTP  que queremos
 
-- GET
-- GET/:id
-- GET/query
-- POST
-- PUT
-- DELETE
+- GET - RETURNING  statusCode 200 
+- GET/:id - statusCode 200
+- GET/query - statusCode 200
+- POST - statusCode 201
+- PUT - statusCode 201
+- DELETE - statusCode 204
  <br/>
 
 
