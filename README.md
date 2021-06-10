@@ -24,15 +24,19 @@ Atributos de um Carro são:
 - Tipo de Câmbio
 - Preço de venda
 <br>
+
 ## Instruções:
+
 - Deve ser utilizado ``NodeJS e MongoDb``
 - Crie um README com orientações para a instalação.
 - O projeto deve ser entregue através de um ou mais repositórios no github.
 <br/>
+
 ## Plus:
 - Cubra pelo menos 1 recurso de seu código com testes unitários com Jest
 <br/>
 <br/>
+
 ----
 
 ## Desemvolvimento
