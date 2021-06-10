@@ -1,4 +1,4 @@
-# <P style="text-align:center">Avaliação Técnica - backend</P>
+# <P style="text-align:center">Avaliação Técnica - backend - COM JAVASCRIPT PURO</P>
 
 ### Este é um desafio da  carupi é um empresa focada no ramo de automóvies.
 
@@ -53,7 +53,7 @@ Atributos de um Carro são:
 ## CONFIGURAÇÕES INICIAS
 -- Primero temos que instalar as dependências do projecto seja utilizando o gerenciador de patocos ````  Yarn OU NPM ```` e no directório do projecto no terminar vamos rodar :
 ```
-  yarn  | npm install
+  yarn  | npm install ==  preferêncial   npm 
 ```
 
 ***
