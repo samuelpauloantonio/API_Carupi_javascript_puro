@@ -14,4 +14,4 @@ const cretaCars = new Schema({
   updated_At: Date
 })
 
-module.exports = mongoose.model('Product', cretaCars)
+module.exports = mongoose.model('Veiculos', cretaCars)

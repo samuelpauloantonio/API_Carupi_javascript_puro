@@ -40,7 +40,7 @@ Atributos de um Carro são:
 
 - EXPRESS - `para criar o servidor`,
 - NODE JS - `para trazer o javascript no backend`
-- JEST -      `para fazer os testes`
+- JEST - SUPERTESTE -      `para fazer os testes`
 - JAVASCRIPT PURO
 - MONGODB - `usando como o Banco de Dados`
 - MONGOOSE `para ajudar no mapeamento do banco `
