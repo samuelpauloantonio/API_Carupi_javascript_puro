@@ -6,8 +6,9 @@
 <br/>
 
 
-O desáfio consiste em criar uma API REST,  com as funcionalidade principais de um CRUD, seguindo alguns princípios da programação como o SOLID  E TDD e Padrão de Projecto em MVC .
+O desáfio consiste em criar uma API REST,  com as funcionalidade principais de um CRUD, seguindo alguns princípios da programação como o SOLID  E TDD  .
 
+#### Padrão de Projecto aplicado  MVC
 ---
 
 <br>
